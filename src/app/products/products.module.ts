@@ -16,7 +16,7 @@ import { SharedModule } from '../shared/shared.module';
     CommonModule,
     ProductsRoutingModule,
     ReactiveFormsModule,
-    SharedModule
+    SharedModule,
   ]
 })
 export class ProductsModule { }
